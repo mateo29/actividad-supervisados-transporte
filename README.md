@@ -6,7 +6,7 @@ Proyecto: sistema inteligente para transporte masivo colombiano, basado en rutas
 - Integrante 1: Daniel Mateo Aguilar Pérez
 
 ## Links para entrega
-- Repositorio Git/GitLab: PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO
+- Repositorio Git/GitLab: https://github.com/mateo29/actividad-supervisados-transporte
 - Video explicativo: PEGAR_AQUI_EL_LINK_DEL_VIDEO
 - Mapa conceptual: `mapa_conceptual_metodos_supervisados.png`
 
