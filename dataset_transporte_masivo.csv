@@ -1,0 +1,181 @@
+﻿id_registro,dia_semana,franja_horaria,linea,estacion_origen,estacion_destino,pasajeros_estimados,buses_disponibles,lluvia,evento_cercano,incidente_reportado,tiempo_base_min,retraso_estimado_min,nivel_congestion,recomendacion_operativa
+1,Sabado,Madrugada,Norte,Av. Jimenez,Calle 100,399,8,1,0,1,22,16.0,Alta,Activar ruta alterna y control operativo
+2,Lunes,Madrugada,Norte,Calle 76,Calle 100,622,23,0,0,0,40,2.4,Baja,Ruta normal
+3,Jueves,Noche,Americas,Portal Norte,Portal Sur,318,17,0,0,1,18,9.3,Media,Aumentar buses / avisar usuarios
+4,Lunes,Tarde_pico,Norte,Portal Americas,Portal Norte,847,23,0,0,0,30,12.7,Media,Aumentar buses / avisar usuarios
+5,Miercoles,Noche,Americas,Calle 76,Portal Sur,264,5,0,0,1,12,12.8,Media,Aumentar buses / avisar usuarios
+6,Jueves,Mediodia,Sur,Portal Americas,Calle 100,411,15,0,0,1,31,7.5,Media,Aumentar buses / avisar usuarios
+7,Lunes,Noche,Suba,Calle 76,Calle 100,389,16,0,1,0,37,8.2,Media,Aumentar buses / avisar usuarios
+8,Martes,Madrugada,Americas,Portal Suba,Calle 76,488,10,1,0,0,12,7.9,Media,Aumentar buses / avisar usuarios
+9,Jueves,Tarde_pico,Suba,Av. Jimenez,Calle 100,964,21,0,0,0,23,10.3,Media,Aumentar buses / avisar usuarios
+10,Martes,Manana_pico,Centro,Portal Sur,Calle 187,667,7,0,0,0,11,12.1,Media,Aumentar buses / avisar usuarios
+11,Jueves,Tarde_pico,Centro,Portal Sur,Portal Americas,1052,21,1,0,0,24,15.5,Alta,Activar ruta alterna y control operativo
+12,Domingo,Mediodia,Norte,Av. Jimenez,Portal Americas,421,18,0,0,0,18,0.0,Baja,Ruta normal
+13,Viernes,Madrugada,Americas,Calle 76,Calle 100,415,9,0,0,0,31,2.7,Baja,Ruta normal
+14,Jueves,Madrugada,Norte,Portal Americas,Portal Norte,287,11,0,1,1,27,9.9,Media,Aumentar buses / avisar usuarios
+15,Domingo,Madrugada,Centro,Calle 100,Calle 76,474,19,1,0,0,50,1.3,Baja,Ruta normal
+16,Martes,Noche,Suba,Av. Jimenez,Portal Americas,303,24,0,1,0,50,3.9,Baja,Ruta normal
+17,Lunes,Mediodia,Norte,Calle 76,Portal Suba,298,4,0,0,0,22,4.0,Baja,Ruta normal
+18,Viernes,Manana_pico,Americas,Portal Sur,Calle 100,990,8,1,1,0,42,24.2,Alta,Activar ruta alterna y control operativo
+19,Lunes,Tarde_pico,Americas,Portal Suba,Av. Jimenez,1121,5,0,1,0,37,21.8,Alta,Activar ruta alterna y control operativo
+20,Martes,Manana_pico,Suba,Portal Sur,Calle 100,902,9,0,0,1,35,17.9,Alta,Activar ruta alterna y control operativo
+21,Lunes,Noche,Norte,Calle 187,Portal Norte,349,9,0,0,0,23,5.2,Baja,Ruta normal
+22,Lunes,Tarde_pico,Americas,Portal Sur,Calle 76,856,21,0,0,0,35,9.4,Media,Aumentar buses / avisar usuarios
+23,Lunes,Mediodia,Norte,Portal Norte,Portal Americas,545,20,1,0,0,38,5.8,Baja,Ruta normal
+24,Viernes,Madrugada,Suba,Portal Suba,Calle 187,809,11,0,0,0,44,3.1,Baja,Ruta normal
+25,Viernes,Mediodia,Americas,Calle 76,Portal Sur,512,11,0,0,0,28,0.9,Baja,Ruta normal
+26,Lunes,Tarde_pico,Centro,Calle 187,Calle 100,644,10,0,0,0,42,8.7,Media,Aumentar buses / avisar usuarios
+27,Miercoles,Manana_pico,Sur,Av. Jimenez,Portal Suba,722,20,0,0,0,49,5.7,Baja,Ruta normal
+28,Martes,Mediodia,Norte,Calle 187,Portal Sur,386,8,0,0,0,43,3.8,Baja,Ruta normal
+29,Domingo,Mediodia,Centro,Portal Sur,Calle 76,250,6,0,1,0,11,8.3,Media,Aumentar buses / avisar usuarios
+30,Domingo,Manana_pico,Americas,Calle 100,Portal Sur,734,21,0,0,0,36,7.6,Media,Aumentar buses / avisar usuarios
+31,Domingo,Mediodia,Centro,Calle 100,Portal Americas,100,5,0,1,0,16,9.0,Media,Aumentar buses / avisar usuarios
+32,Miercoles,Manana_pico,Suba,Calle 187,Av. Jimenez,761,17,1,0,1,43,24.3,Alta,Activar ruta alterna y control operativo
+33,Jueves,Madrugada,Suba,Portal Americas,Portal Norte,259,11,0,0,0,34,0.7,Baja,Ruta normal
+34,Martes,Manana_pico,Sur,Portal Americas,Calle 76,760,11,0,0,0,22,7.2,Media,Aumentar buses / avisar usuarios
+35,Miercoles,Mediodia,Centro,Portal Suba,Portal Sur,275,14,1,0,1,42,13.6,Media,Aumentar buses / avisar usuarios
+36,Miercoles,Madrugada,Norte,Portal Suba,Calle 76,463,17,0,0,0,28,0.0,Baja,Ruta normal
+37,Miercoles,Madrugada,Sur,Portal Norte,Portal Americas,249,10,0,0,0,42,1.9,Baja,Ruta normal
+38,Viernes,Mediodia,Norte,Av. Jimenez,Portal Suba,555,17,0,0,0,27,0.0,Baja,Ruta normal
+39,Jueves,Manana_pico,Centro,Av. Jimenez,Portal Americas,975,4,0,0,0,43,14.7,Media,Aumentar buses / avisar usuarios
+40,Miercoles,Tarde_pico,Sur,Portal Sur,Portal Suba,753,20,0,1,0,21,13.8,Media,Aumentar buses / avisar usuarios
+41,Lunes,Mediodia,Centro,Portal Americas,Calle 187,386,13,0,0,0,23,1.5,Baja,Ruta normal
+42,Viernes,Madrugada,Sur,Portal Suba,Portal Sur,216,10,0,0,0,44,1.8,Baja,Ruta normal
+43,Domingo,Madrugada,Sur,Calle 76,Calle 100,142,20,0,0,1,52,7.8,Media,Aumentar buses / avisar usuarios
+44,Jueves,Manana_pico,Sur,Portal Americas,Portal Norte,982,23,1,1,0,36,19.9,Alta,Activar ruta alterna y control operativo
+45,Martes,Tarde_pico,Sur,Av. Jimenez,Portal Norte,592,24,0,0,0,23,3.3,Baja,Ruta normal
+46,Jueves,Madrugada,Americas,Calle 76,Av. Jimenez,475,14,1,0,0,29,3.3,Baja,Ruta normal
+47,Martes,Madrugada,Sur,Portal Suba,Calle 76,379,18,0,0,0,42,0.0,Baja,Ruta normal
+48,Sabado,Madrugada,Centro,Portal Suba,Av. Jimenez,294,15,0,0,1,8,10.1,Media,Aumentar buses / avisar usuarios
+49,Viernes,Noche,Centro,Calle 76,Portal Americas,389,12,0,0,0,22,0.7,Baja,Ruta normal
+50,Domingo,Tarde_pico,Suba,Portal Norte,Av. Jimenez,711,22,0,0,0,45,4.4,Baja,Ruta normal
+51,Miercoles,Tarde_pico,Americas,Calle 76,Portal Americas,824,14,1,0,0,28,14.0,Media,Aumentar buses / avisar usuarios
+52,Lunes,Noche,Norte,Portal Americas,Calle 100,471,6,1,0,0,49,8.4,Media,Aumentar buses / avisar usuarios
+53,Martes,Manana_pico,Suba,Portal Sur,Portal Suba,905,22,1,0,0,15,13.1,Media,Aumentar buses / avisar usuarios
+54,Sabado,Madrugada,Suba,Av. Jimenez,Calle 187,563,4,1,0,1,45,21.1,Alta,Activar ruta alterna y control operativo
+55,Sabado,Manana_pico,Norte,Calle 76,Calle 187,1143,13,1,0,0,52,19.7,Alta,Activar ruta alterna y control operativo
+56,Viernes,Tarde_pico,Americas,Calle 187,Portal Suba,992,14,0,0,0,49,13.5,Media,Aumentar buses / avisar usuarios
+57,Jueves,Manana_pico,Centro,Av. Jimenez,Portal Suba,620,19,0,1,0,42,10.0,Media,Aumentar buses / avisar usuarios
+58,Domingo,Madrugada,Americas,Portal Sur,Calle 100,332,22,0,0,0,37,0.0,Baja,Ruta normal
+59,Jueves,Manana_pico,Americas,Av. Jimenez,Calle 76,571,23,0,0,0,25,6.7,Baja,Ruta normal
+60,Sabado,Tarde_pico,Sur,Calle 76,Portal Sur,593,24,0,0,0,38,8.3,Media,Aumentar buses / avisar usuarios
+61,Jueves,Manana_pico,Americas,Portal Americas,Av. Jimenez,1025,20,0,1,0,43,16.1,Alta,Activar ruta alterna y control operativo
+62,Miercoles,Mediodia,Americas,Calle 76,Calle 187,263,14,0,0,0,20,0.0,Baja,Ruta normal
+63,Martes,Tarde_pico,Americas,Av. Jimenez,Calle 187,777,13,0,0,0,20,6.5,Baja,Ruta normal
+64,Lunes,Madrugada,Centro,Av. Jimenez,Portal Sur,595,24,1,0,1,16,11.9,Media,Aumentar buses / avisar usuarios
+65,Jueves,Tarde_pico,Americas,Calle 100,Calle 187,1000,19,0,0,0,24,13.4,Media,Aumentar buses / avisar usuarios
+66,Martes,Manana_pico,Centro,Av. Jimenez,Calle 187,761,7,0,0,0,23,15.0,Alta,Activar ruta alterna y control operativo
+67,Domingo,Noche,Sur,Portal Sur,Av. Jimenez,516,22,1,0,0,27,5.1,Baja,Ruta normal
+68,Lunes,Manana_pico,Suba,Av. Jimenez,Portal Sur,1141,9,0,0,0,13,17.9,Alta,Activar ruta alterna y control operativo
+69,Miercoles,Madrugada,Suba,Av. Jimenez,Portal Sur,590,18,0,0,0,26,3.0,Baja,Ruta normal
+70,Sabado,Manana_pico,Sur,Calle 187,Portal Suba,444,24,0,0,0,22,3.0,Baja,Ruta normal
+71,Domingo,Mediodia,Centro,Av. Jimenez,Portal Americas,336,18,0,0,1,15,8.7,Media,Aumentar buses / avisar usuarios
+72,Viernes,Tarde_pico,Sur,Calle 187,Portal Suba,1104,17,1,0,0,10,20.2,Alta,Activar ruta alterna y control operativo
+73,Lunes,Mediodia,Centro,Portal Norte,Portal Sur,550,19,0,0,0,19,1.7,Baja,Ruta normal
+74,Sabado,Tarde_pico,Norte,Portal Sur,Calle 76,1061,14,0,0,0,34,15.7,Alta,Activar ruta alterna y control operativo
+75,Miercoles,Tarde_pico,Centro,Portal Norte,Av. Jimenez,593,14,0,0,0,13,1.1,Baja,Ruta normal
+76,Sabado,Noche,Sur,Portal Suba,Calle 187,106,20,0,0,0,20,1.6,Baja,Ruta normal
+77,Martes,Mediodia,Centro,Calle 100,Av. Jimenez,202,19,0,1,0,36,5.2,Baja,Ruta normal
+78,Sabado,Manana_pico,Americas,Portal Norte,Portal Americas,800,6,0,1,0,34,18.0,Alta,Activar ruta alterna y control operativo
+79,Jueves,Mediodia,Centro,Av. Jimenez,Portal Americas,386,19,0,0,0,38,0.2,Baja,Ruta normal
+80,Viernes,Manana_pico,Norte,Av. Jimenez,Portal Norte,1250,14,1,0,0,34,15.1,Alta,Activar ruta alterna y control operativo
+81,Sabado,Tarde_pico,Suba,Portal Sur,Portal Americas,691,15,0,0,0,38,7.2,Media,Aumentar buses / avisar usuarios
+82,Viernes,Tarde_pico,Suba,Portal Suba,Calle 187,1250,19,0,0,0,28,15.8,Alta,Activar ruta alterna y control operativo
+83,Lunes,Manana_pico,Centro,Portal Americas,Portal Norte,711,18,0,1,0,14,15.8,Alta,Activar ruta alterna y control operativo
+84,Lunes,Tarde_pico,Americas,Portal Americas,Portal Suba,1138,16,0,1,0,52,17.5,Alta,Activar ruta alterna y control operativo
+85,Sabado,Tarde_pico,Centro,Portal Norte,Portal Americas,598,11,0,1,1,12,18.5,Alta,Activar ruta alterna y control operativo
+86,Lunes,Madrugada,Sur,Calle 100,Portal Sur,441,4,0,0,0,27,5.3,Baja,Ruta normal
+87,Martes,Manana_pico,Centro,Portal Suba,Portal Americas,996,9,0,0,1,51,23.8,Alta,Activar ruta alterna y control operativo
+88,Martes,Tarde_pico,Centro,Calle 100,Calle 76,715,24,0,0,0,37,8.6,Media,Aumentar buses / avisar usuarios
+89,Sabado,Noche,Suba,Calle 187,Portal Americas,430,22,0,1,0,30,4.1,Baja,Ruta normal
+90,Martes,Tarde_pico,Sur,Calle 187,Calle 76,678,22,0,0,0,32,8.5,Media,Aumentar buses / avisar usuarios
+91,Jueves,Mediodia,Norte,Portal Norte,Portal Americas,448,13,1,0,0,39,4.6,Baja,Ruta normal
+92,Viernes,Mediodia,Suba,Calle 187,Portal Sur,345,5,0,0,0,49,7.2,Media,Aumentar buses / avisar usuarios
+93,Miercoles,Tarde_pico,Suba,Calle 76,Calle 100,822,15,0,1,0,42,13.0,Media,Aumentar buses / avisar usuarios
+94,Sabado,Mediodia,Norte,Portal Sur,Calle 187,539,11,1,0,1,17,13.7,Media,Aumentar buses / avisar usuarios
+95,Domingo,Tarde_pico,Norte,Av. Jimenez,Portal Suba,986,18,0,0,0,15,10.8,Media,Aumentar buses / avisar usuarios
+96,Lunes,Manana_pico,Sur,Portal Norte,Portal Americas,1175,14,1,0,0,43,15.1,Alta,Activar ruta alterna y control operativo
+97,Jueves,Madrugada,Suba,Portal Norte,Calle 187,434,19,0,0,0,27,0.8,Baja,Ruta normal
+98,Miercoles,Noche,Sur,Calle 100,Portal Americas,257,7,1,0,1,49,16.3,Alta,Activar ruta alterna y control operativo
+99,Sabado,Mediodia,Suba,Portal Sur,Av. Jimenez,541,15,0,0,0,23,1.6,Baja,Ruta normal
+100,Lunes,Tarde_pico,Americas,Calle 76,Calle 187,612,6,0,0,0,37,10.6,Media,Aumentar buses / avisar usuarios
+101,Martes,Noche,Suba,Calle 187,Portal Norte,347,10,0,0,0,43,0.0,Baja,Ruta normal
+102,Lunes,Mediodia,Suba,Calle 100,Portal Suba,573,9,0,1,0,24,8.4,Media,Aumentar buses / avisar usuarios
+103,Miercoles,Madrugada,Suba,Av. Jimenez,Calle 187,436,17,0,0,0,16,0.0,Baja,Ruta normal
+104,Viernes,Madrugada,Sur,Calle 76,Portal Suba,487,20,0,0,0,10,0.0,Baja,Ruta normal
+105,Jueves,Madrugada,Sur,Portal Sur,Calle 187,404,14,0,0,0,13,0.0,Baja,Ruta normal
+106,Viernes,Noche,Americas,Portal Suba,Portal Americas,434,13,0,0,0,41,1.0,Baja,Ruta normal
+107,Jueves,Tarde_pico,Suba,Portal Suba,Calle 76,935,16,0,0,0,37,14.6,Media,Aumentar buses / avisar usuarios
+108,Martes,Tarde_pico,Norte,Calle 187,Portal Norte,735,6,0,0,0,13,13.0,Media,Aumentar buses / avisar usuarios
+109,Viernes,Noche,Centro,Portal Americas,Portal Sur,239,17,0,0,0,15,0.5,Baja,Ruta normal
+110,Viernes,Mediodia,Americas,Calle 187,Portal Suba,595,10,0,0,0,40,3.7,Baja,Ruta normal
+111,Lunes,Mediodia,Centro,Calle 76,Portal Norte,644,21,1,0,0,35,3.1,Baja,Ruta normal
+112,Viernes,Mediodia,Norte,Calle 100,Av. Jimenez,646,13,1,0,0,52,7.0,Media,Aumentar buses / avisar usuarios
+113,Lunes,Manana_pico,Norte,Calle 187,Portal Sur,1186,10,0,0,0,41,15.8,Alta,Activar ruta alterna y control operativo
+114,Viernes,Madrugada,Norte,Calle 100,Calle 76,696,5,0,0,0,47,13.9,Media,Aumentar buses / avisar usuarios
+115,Jueves,Mediodia,Suba,Calle 187,Av. Jimenez,288,7,0,0,0,35,3.4,Baja,Ruta normal
+116,Martes,Tarde_pico,Centro,Portal Norte,Calle 187,690,13,1,0,0,21,12.2,Media,Aumentar buses / avisar usuarios
+117,Lunes,Tarde_pico,Sur,Calle 100,Calle 76,708,21,0,0,0,32,7.8,Media,Aumentar buses / avisar usuarios
+118,Domingo,Madrugada,Sur,Portal Norte,Av. Jimenez,293,14,0,0,0,12,0.0,Baja,Ruta normal
+119,Miercoles,Madrugada,Sur,Portal Norte,Calle 76,303,23,0,0,0,18,2.3,Baja,Ruta normal
+120,Domingo,Madrugada,Suba,Portal Suba,Portal Americas,318,20,0,1,0,33,6.5,Baja,Ruta normal
+121,Domingo,Manana_pico,Norte,Calle 187,Portal Suba,878,10,1,0,0,40,17.2,Alta,Activar ruta alterna y control operativo
+122,Martes,Mediodia,Suba,Calle 100,Portal Suba,501,24,0,1,0,17,4.3,Baja,Ruta normal
+123,Domingo,Noche,Sur,Portal Americas,Portal Norte,235,14,0,0,0,48,2.8,Baja,Ruta normal
+124,Domingo,Mediodia,Centro,Portal Norte,Calle 76,226,6,0,0,0,40,1.7,Baja,Ruta normal
+125,Lunes,Madrugada,Centro,Portal Suba,Av. Jimenez,551,21,1,0,0,45,6.9,Baja,Ruta normal
+126,Viernes,Tarde_pico,Centro,Calle 100,Calle 187,770,7,1,1,1,36,33.8,Alta,Activar ruta alterna y control operativo
+127,Martes,Tarde_pico,Sur,Calle 100,Av. Jimenez,679,13,0,0,0,31,5.5,Baja,Ruta normal
+128,Sabado,Mediodia,Norte,Portal Americas,Calle 187,466,16,0,0,0,43,0.0,Baja,Ruta normal
+129,Miercoles,Madrugada,Centro,Calle 100,Av. Jimenez,123,24,0,0,0,27,0.2,Baja,Ruta normal
+130,Miercoles,Noche,Sur,Portal Americas,Portal Norte,89,20,0,0,0,16,0.0,Baja,Ruta normal
+131,Miercoles,Mediodia,Suba,Calle 76,Av. Jimenez,300,10,0,0,0,39,0.0,Baja,Ruta normal
+132,Domingo,Noche,Centro,Portal Norte,Portal Suba,399,23,0,0,0,29,0.1,Baja,Ruta normal
+133,Domingo,Manana_pico,Sur,Portal Norte,Av. Jimenez,776,11,1,0,0,31,11.4,Media,Aumentar buses / avisar usuarios
+134,Martes,Mediodia,Sur,Calle 76,Av. Jimenez,369,22,1,0,0,51,4.9,Baja,Ruta normal
+135,Viernes,Tarde_pico,Suba,Calle 76,Portal Norte,1199,8,1,0,0,46,19.5,Alta,Activar ruta alterna y control operativo
+136,Lunes,Mediodia,Norte,Calle 100,Av. Jimenez,497,20,0,0,1,36,12.1,Media,Aumentar buses / avisar usuarios
+137,Lunes,Tarde_pico,Norte,Portal Suba,Portal Americas,765,11,0,0,0,31,7.8,Media,Aumentar buses / avisar usuarios
+138,Martes,Madrugada,Americas,Portal Sur,Portal Suba,306,19,0,0,0,16,0.0,Baja,Ruta normal
+139,Domingo,Manana_pico,Centro,Portal Suba,Calle 187,882,11,0,0,0,26,12.5,Media,Aumentar buses / avisar usuarios
+140,Lunes,Madrugada,Sur,Portal Norte,Portal Suba,544,22,0,0,0,40,0.0,Baja,Ruta normal
+141,Martes,Noche,Sur,Calle 100,Portal Sur,358,6,0,0,1,50,13.0,Media,Aumentar buses / avisar usuarios
+142,Viernes,Noche,Centro,Portal Norte,Av. Jimenez,239,5,0,1,0,38,12.9,Media,Aumentar buses / avisar usuarios
+143,Domingo,Madrugada,Americas,Calle 76,Portal Sur,199,24,0,0,0,50,0.0,Baja,Ruta normal
+144,Miercoles,Noche,Americas,Calle 100,Portal Norte,326,18,1,0,0,51,4.4,Baja,Ruta normal
+145,Domingo,Tarde_pico,Norte,Av. Jimenez,Calle 100,1034,10,1,0,0,10,18.2,Alta,Activar ruta alterna y control operativo
+146,Lunes,Manana_pico,Americas,Portal Americas,Portal Norte,1224,24,0,0,0,11,16.3,Alta,Activar ruta alterna y control operativo
+147,Miercoles,Manana_pico,Sur,Portal Sur,Calle 76,829,12,1,0,0,41,11.0,Media,Aumentar buses / avisar usuarios
+148,Miercoles,Mediodia,Norte,Calle 187,Av. Jimenez,436,13,0,0,0,50,0.0,Baja,Ruta normal
+149,Jueves,Madrugada,Americas,Portal Suba,Calle 76,208,5,0,0,0,48,6.3,Baja,Ruta normal
+150,Martes,Noche,Sur,Portal Norte,Calle 100,404,11,1,0,0,12,5.3,Baja,Ruta normal
+151,Viernes,Manana_pico,Sur,Portal Americas,Calle 76,927,6,0,0,0,36,15.8,Alta,Activar ruta alterna y control operativo
+152,Lunes,Madrugada,Suba,Portal Sur,Portal Americas,518,21,0,0,0,32,2.0,Baja,Ruta normal
+153,Sabado,Tarde_pico,Suba,Calle 187,Calle 76,962,18,0,0,1,12,17.9,Alta,Activar ruta alterna y control operativo
+154,Sabado,Madrugada,Centro,Av. Jimenez,Calle 76,182,24,0,0,0,18,0.5,Baja,Ruta normal
+155,Domingo,Manana_pico,Suba,Portal Sur,Calle 187,771,21,0,0,1,31,17.3,Alta,Activar ruta alterna y control operativo
+156,Lunes,Mediodia,Sur,Portal Sur,Portal Americas,573,17,1,0,1,34,12.6,Media,Aumentar buses / avisar usuarios
+157,Jueves,Noche,Americas,Calle 100,Portal Norte,391,24,0,0,0,43,3.7,Baja,Ruta normal
+158,Domingo,Madrugada,Centro,Calle 100,Av. Jimenez,345,9,0,0,0,18,3.2,Baja,Ruta normal
+159,Miercoles,Madrugada,Americas,Calle 76,Portal Sur,541,12,0,0,0,43,0.0,Baja,Ruta normal
+160,Martes,Noche,Centro,Calle 100,Calle 76,403,23,1,0,0,50,5.3,Baja,Ruta normal
+161,Domingo,Madrugada,Norte,Portal Norte,Portal Suba,454,12,0,0,0,44,0.0,Baja,Ruta normal
+162,Jueves,Noche,Americas,Av. Jimenez,Portal Americas,451,16,0,0,0,23,2.0,Baja,Ruta normal
+163,Jueves,Tarde_pico,Suba,Portal Americas,Portal Suba,910,14,1,0,1,17,24.9,Alta,Activar ruta alterna y control operativo
+164,Miercoles,Noche,Centro,Calle 187,Av. Jimenez,105,18,0,0,0,23,0.0,Baja,Ruta normal
+165,Miercoles,Tarde_pico,Centro,Portal Suba,Calle 100,761,14,1,0,0,18,14.5,Media,Aumentar buses / avisar usuarios
+166,Jueves,Tarde_pico,Americas,Portal Sur,Calle 187,586,16,0,1,0,13,12.0,Media,Aumentar buses / avisar usuarios
+167,Miercoles,Tarde_pico,Centro,Portal Sur,Calle 76,989,4,1,0,1,42,31.2,Alta,Activar ruta alterna y control operativo
+168,Miercoles,Madrugada,Sur,Portal Norte,Portal Americas,310,10,0,0,0,43,5.3,Baja,Ruta normal
+169,Domingo,Noche,Americas,Calle 187,Calle 76,343,16,0,1,0,14,4.5,Baja,Ruta normal
+170,Martes,Noche,Centro,Portal Suba,Portal Americas,345,5,0,0,0,10,3.7,Baja,Ruta normal
+171,Jueves,Manana_pico,Centro,Calle 100,Av. Jimenez,786,14,0,1,0,47,12.1,Media,Aumentar buses / avisar usuarios
+172,Miercoles,Noche,Centro,Portal Sur,Portal Suba,136,13,0,0,0,44,0.0,Baja,Ruta normal
+173,Jueves,Noche,Americas,Portal Norte,Portal Americas,595,12,1,0,0,38,6.2,Baja,Ruta normal
+174,Lunes,Noche,Sur,Calle 100,Portal Suba,375,23,1,0,0,48,4.7,Baja,Ruta normal
+175,Sabado,Madrugada,Suba,Portal Norte,Av. Jimenez,553,17,0,0,0,28,2.3,Baja,Ruta normal
+176,Domingo,Madrugada,Suba,Calle 76,Portal Suba,479,19,0,0,0,28,2.4,Baja,Ruta normal
+177,Viernes,Mediodia,Americas,Portal Sur,Calle 100,458,12,0,0,1,23,8.5,Media,Aumentar buses / avisar usuarios
+178,Sabado,Tarde_pico,Americas,Portal Sur,Calle 76,785,12,0,0,0,43,11.8,Media,Aumentar buses / avisar usuarios
+179,Miercoles,Madrugada,Americas,Calle 187,Av. Jimenez,464,24,0,0,0,36,0.1,Baja,Ruta normal
+180,Viernes,Mediodia,Suba,Calle 187,Portal Suba,578,11,0,0,0,45,8.3,Media,Aumentar buses / avisar usuarios
