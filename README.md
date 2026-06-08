@@ -2,10 +2,8 @@
 
 Proyecto: sistema inteligente para transporte masivo colombiano, basado en rutas tipo TransMilenio.
 
-## Integrantes
-- Integrante 1: ____________________
-- Integrante 2: ____________________
-- Integrante 3: ____________________
+## Integrante
+- Integrante 1: Daniel Mateo Aguilar Pérez
 
 ## Links para entrega
 - Repositorio Git/GitLab: PEGAR_AQUI_EL_LINK_DEL_REPOSITORIO
