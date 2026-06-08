@@ -7,7 +7,7 @@ Proyecto: sistema inteligente para transporte masivo colombiano, basado en rutas
 
 ## Links para entrega
 - Repositorio Git/GitLab: https://github.com/mateo29/actividad-supervisados-transporte
-- Video explicativo: AQUI SUBIRE EL VIDEO
+- Video explicativo: (https://youtu.be/ip4FhSIv-jI)
 - Mapa conceptual: `mapa_conceptual_metodos_supervisados.png`
 
 ## Archivos incluidos
